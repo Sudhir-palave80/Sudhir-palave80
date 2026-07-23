@@ -1,7 +1,9 @@
 ## Hi I'am Sudhir Palave👋
+-----------------------------------------------------------------------------------------------------------------------------
 📊 **Data Analyst | Business Analyst** 
 Welcome to my GitHub profile!
 I am passionate about transforming data into meaningful insights and helping organizations make data-driven decisions. I enjoy working with data analytics, business intelligence, and visualization tools to analyze trends and solve real-world problems.
+-----------------------------------------------------------------------------------------------------------------------------
 🚀 **About Me**
 📊 Data Analytics Enthusiast with strong interest in Business Intelligence & Data Visualization
 📈 Passionate about data-driven decision making
